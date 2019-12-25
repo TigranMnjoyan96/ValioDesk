@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/ValioDesk/static/css/main.13d4f757.chunk.css",
+    "main.js": "/ValioDesk/static/js/main.38e0ef08.chunk.js",
+    "main.js.map": "/ValioDesk/static/js/main.38e0ef08.chunk.js.map",
+    "runtime-main.js": "/ValioDesk/static/js/runtime-main.1dcfdba1.js",
+    "runtime-main.js.map": "/ValioDesk/static/js/runtime-main.1dcfdba1.js.map",
+    "static/js/2.0117bf01.chunk.js": "/ValioDesk/static/js/2.0117bf01.chunk.js",
+    "static/js/2.0117bf01.chunk.js.map": "/ValioDesk/static/js/2.0117bf01.chunk.js.map",
+    "index.html": "/ValioDesk/index.html",
+    "precache-manifest.91714399cb317ca0414b23684dd7cb75.js": "/ValioDesk/precache-manifest.91714399cb317ca0414b23684dd7cb75.js",
+    "service-worker.js": "/ValioDesk/service-worker.js",
+    "static/css/main.13d4f757.chunk.css.map": "/ValioDesk/static/css/main.13d4f757.chunk.css.map",
+    "static/js/2.0117bf01.chunk.js.LICENSE": "/ValioDesk/static/js/2.0117bf01.chunk.js.LICENSE",
+    "static/media/Finish.css": "/ValioDesk/static/media/finish.7f4ab701.png",
+    "static/media/QuestionEight.css": "/ValioDesk/static/media/questEight.8344eb4b.png",
+    "static/media/QuestionFive.css": "/ValioDesk/static/media/questFive.66f181bc.png",
+    "static/media/QuestionFour.css": "/ValioDesk/static/media/questFour.0f67badc.png",
+    "static/media/QuestionNine.css": "/ValioDesk/static/media/questNine.faac3e45.png",
+    "static/media/first.css": "/ValioDesk/static/media/questOne.67dfd19c.png",
+    "static/media/QuestionSeven.css": "/ValioDesk/static/media/questSeven.704c27ca.png",
+    "static/media/QuestionSix.css": "/ValioDesk/static/media/questSix.fce980dc.png",
+    "static/media/LastQuestion.css": "/ValioDesk/static/media/questTen.4a9be714.png",
+    "static/media/QuestionThree.css": "/ValioDesk/static/media/questTwo.f2b14ca1.png",
+    "static/media/App.css": "/ValioDesk/static/media/valio 1.a885adc6.png",
+    "static/media/SecondQuestion.css": "/ValioDesk/static/media/valio 2 (2).7a24f1fd.png",
+    "static/media/MediaApp.scss": "/ValioDesk/static/media/valioMobileStart.3988933c.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1dcfdba1.js",
+    "static/js/2.0117bf01.chunk.js",
+    "static/css/main.13d4f757.chunk.css",
+    "static/js/main.38e0ef08.chunk.js"
+  ]
+}
